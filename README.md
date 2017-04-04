@@ -19,3 +19,12 @@ Fishing is an activity that humans have worked at improving since prehistory.  W
     
 ### Gantt Chart
 ![alt text](https://github.com/Append/CYBR8480_Project/blob/master/pictures/Gantt.PNG "Gantt Chart")
+
+### Risk List
+|Risk name (value)  | Impact     | Likelihood | Description | Mitigation |
+|-------------------|------------|------------|-------------|------------|
+|Major Illness (40) | 10 | 2 | Major illness in project lead  | Try to make smart health choices |
+|Some risk (40) | 8 | 5 | Some description  | Monitor it by doing...|
+|Some risk (40) | 8 | 5 | Some description  | Monitor it by doing...|
+|Some risk (40) | 8 | 5 | Some description  | Monitor it by doing...|
+|Some risk (40) | 8 | 5 | Some description  | Monitor it by doing...|
