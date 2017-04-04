@@ -16,5 +16,6 @@ Fishing is an activity that humans have worked at improving since prehistory.  W
     -  This piece of the project ties everything together to give the user a friendly and easy to read understanding of their fishing
 6. Large data analytics
     -  By taking in data from all the users, the FishBright application will be able to see trends across all anglers and produce tips for the benefit of the whole 
-
+    
+### Gantt Chart
 ![alt text](https://github.com/Append/CYBR8480_Project/blob/master/pictures/Gantt.PNG "Gantt Chart")
