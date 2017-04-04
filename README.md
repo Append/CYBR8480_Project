@@ -3,7 +3,7 @@
 ## Executive Summary
 Fishing is an activity that humans have worked at improving since prehistory.  What began as a way to survive has become a passtime that reconnects us to our primitive roots.  But fishing need not stay primitive in how we approach it.  The fishing analytics product, FishBright, will allow for modern analysis of weather and other environmental factors; and how they directly contribute to catching more fish.  Statistical analysis of fishing will provide users with a better understanding of what causes fish to bite non-stop one day and to become uncatchable the next.  FishBright will help anglers decide what bait presentations will work any given day based on more than experience or guesswork.  While the average fisher who wants an edge in their passtime will be greatly helped by this product, the main user base that this product targets is people who make a living fishing, as guides or as professional anglers.  
 
-###Objectives
+### Objectives
 1. Building an app that is able to collect data from the phone itself and from other sensors
     - The hybrid app will help users by allowing the application to use the built in functionality of their modbile device and external sensors that create a bigger picture of data
 2. Logging weather and environment data for analysis
