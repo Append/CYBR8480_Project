@@ -24,7 +24,7 @@ Fishing is an activity that humans have worked at improving since prehistory.  W
 |Risk name (value)  | Impact     | Likelihood | Description | Mitigation |
 |-------------------|------------|------------|-------------|------------|
 |Major Illness (20) | 10 | 2 | Major illness in project lead  | Try to make smart health choices |
-|Water Destruction (45) | 9 | 5 | Destruction of components in water because of the nature of the project  | Look into waterproofing solutions, stress careful handling in testing|
-|IR Sensor Failure (20) | 5 | 4 | IR Sensor in tag found incapable of accurately monitoring water temperature  | Accept risk, and investigate alternatives for future|
+|Water Destruction (45) | 9 | 5 | Destruction of components in water because of the nature of the project and its proximity to water | Look into waterproofing solutions, stress careful handling in testing|
+|IR Sensor Failure (20) | 5 | 4 | IR Sensor in SensorTag found incapable of accurately monitoring water temperature  | Accept risk, and investigate alternatives for future|
 |Phone GPS Inaccuracy (8) | 4 | 2 | The phone gps isn't accurate enough to work with the application analytics | Accept risk, build in future alternative options|
-|Some risk (40) | 8 | 5 | Some description  | Monitor it by doing...|
+|Delay from documentation (40) | 5 | 8 | Delay in production because of missing, improper, or poor documentation for the Texas Instruments SensorTag | Investigate other documentation sources (i.e. other projects using SensorTag) |
